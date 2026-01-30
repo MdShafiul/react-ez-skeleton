@@ -201,8 +201,12 @@ Then provide your own CSS:
 
 ## Contributing
 
-PRs and issues are welcome.
+PRs and issues are welcome on [GitHub](https://github.com/MdShafiul/react-ez-skeleton).
 Please keep changes DX-focused and minimal.
+
+## Documentation & Examples
+
+View the full documentation and live examples at [react-ez-skeleton-docs.vercel.app](https://react-ez-skeleton-docs.vercel.app/).
 
 ## License
 
